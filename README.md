@@ -101,8 +101,8 @@ This project is [MIT](LICENSE) licensed.
 
 ## 👨‍💻 Author
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+- GitHub: [@PUNEETH-7](https://github.com/PUNEETH-7)
+- LinkedIn: [PUNEETH -7](https://www.linkedin.com/in/puneeth-7-112104290/)
 
 ## 🙏 Acknowledgments
 
